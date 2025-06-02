@@ -74,13 +74,13 @@ To build trust and transparency, this project integrates **LIME (Local Interpret
 ## Sample Output
 
 ### 📌 Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](sample_output/confusion_matrix.png)
 
 ### 📌 ROC Curve
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](sample_output/roc_curve.png)
 
 ### 📌 LIME Explanation
-![LIME Explanation](images/lime_explanation.png)
+![LIME Explanation](sample_output/lime_explanation.png)
 
 ---
 
